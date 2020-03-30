@@ -2,7 +2,9 @@ Fourier Series approximation for a hat function. Following youtube series by Ste
 
 Have matlab version and python version within repository.
 
-Matlab 
+Matlab https://github.com/shansiddi/fourierseries/blob/master/fouriers.m
+
+Python https://github.com/shansiddi/fourierseries/blob/master/fouriers.ipynb
 
 General point is that more terms of a Fourier Series taken the better the approximation in general. We find monotomic decrease in error with increasing mode number. Works for nice (continuous) periodic functions like the hat function shown.
 
