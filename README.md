@@ -19,5 +19,5 @@ General point is that more terms of a Fourier Series taken the better the approx
 <p align="center">
 <img src="https://raw.githubusercontent.com/shansiddi/fourierseries/master/images/fig2.PNG">
 <p align="center">
-<b>Plots of Mode Apmplitude and Reconstruction Error vs Mode Number</b><br>
+<b>Plots of Mode Amplitude and Reconstruction Error vs Mode Number</b><br>
 </p> 
