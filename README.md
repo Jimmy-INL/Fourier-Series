@@ -4,9 +4,10 @@ Have matlab version and python version within repository.
 
 General point is that more terms of a Fourier Series taken the better the approximation in general. We find monotomic decreas in error with increasing mode number. Works for nice (continuous) periodic functions like the hat function shown.
 
-![](images/fig0.PNG)
 <p align="center">
+![](images/fig0.PNG)
 <b>Hat function </b><br>
+</p>  
   
 ![](images/fig1.PNG)
 <p align="center">
