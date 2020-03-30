@@ -7,13 +7,17 @@ General point is that more terms of a Fourier Series taken the better the approx
 <p align="center">
 <img src="https://raw.githubusercontent.com/shansiddi/fourierseries/master/images/fig0.PNG">
 <p align="center">
-<b>Hat function </b><br>
+<b>Hat function</b><br>
 </p>  
-  
-![](images/fig1.PNG)
+ 
+<p align="center">
+<img src="https://raw.githubusercontent.com/shansiddi/fourierseries/master/images/fig1.PNG">
 <p align="center">
 <b>Hat function with successive Fourier Series approximations superimposed on top</b><br>
- 
-![](images/fig2.PNG)
+</p>   
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shansiddi/fourierseries/master/images/fig2.PNG">
 <p align="center">
 <b>Plots of Mode Apmplitude and Reconstruction Error vs Mode Number</b><br>
+</p> 
