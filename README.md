@@ -6,6 +6,7 @@ General point is that more terms of a Fourier Series taken the better the approx
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/shansiddi/fourierseries/master/images/fig0.PNG">
+
 <b>Hat function </b><br>
 </p>  
   
